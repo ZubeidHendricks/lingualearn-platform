@@ -1,0 +1,13 @@
+{
+  "name": "@lingualearn/frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"No tests yet\" && exit 0",
+    "start": "echo \"No start script yet\" && exit 0",
+    "build": "echo \"No build required\" && exit 0"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
